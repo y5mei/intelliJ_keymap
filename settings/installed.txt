@@ -1,0 +1,6 @@
+org.jetbrains.plugins.go
+org.jetbrains.plugins.spotbugs
+CheckStyle-IDEA
+PlantUML integration
+Pythonid
+com.google.idea.bazel.ijwb
